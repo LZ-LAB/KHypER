@@ -1,4 +1,4 @@
-## IJCAI 2023 Demo - KHypER: An Explainable Risk Reasoning Model System for Financial Knowledge Hypergraph
+## ICDE 2024 Demo - KHypER: An Explainable Risk Reasoning Model System for Financial Knowledge Hypergraph
 
 
 
